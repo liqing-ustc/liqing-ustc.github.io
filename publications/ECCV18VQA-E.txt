@@ -1,0 +1,6 @@
+@article{gurari2018vizwiz,
+  title={VQA-E: Explaining, Elaborating, and Enhancing Your Answers for Visual Questions},
+  author={Li, Qing and Tao, Qingyi and Joty, Shafiq and Cai, Jianfei and Luo, Jiebo},
+  journal={ECCV},
+  year={2018}
+}
