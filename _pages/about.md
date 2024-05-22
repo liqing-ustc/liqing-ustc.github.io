@@ -6,8 +6,8 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: liqing.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
@@ -17,6 +17,8 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+I am a Research Scientist at Beijing Institute for General Artificial Intelligence (BIGAI). I received my Ph.D. in 2022 from Department of Statistics at University of California, Los Angeles (UCLA), advised by Professor Song-Chun Zhu. During my Ph.D., I have interned at Google Research, Microsoft Azure AI and Amazon Alexa. Before UCLA, I obtained my degrees of Bachelor in 2015 and Master in 2018 from University of Science and Technology of China (USTC). My research interests lie in machine learning, computer vision, and multimodal learning.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
