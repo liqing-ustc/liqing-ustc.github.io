@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a research scientist and team lead at <a href='https://www.bigai.ai'>Beijing Institute for General Artificial Intelligence (BIGAI)</a>, China. I received my Ph.D. in 2022 from Department of Statistics at University of California, Los Angeles (UCLA), advised by Professor Song-Chun Zhu. During my Ph.D., I have interned at Google Research, Microsoft Azure AI and Amazon Alexa. Before UCLA, I obtained my degrees of Bachelor in 2015 and Master in 2018 from University of Science and Technology of China (USTC). 
+I am a research scientist and team lead at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai), China. I received my Ph.D. in 2022 from Department of Statistics at University of California, Los Angeles (UCLA), advised by Professor [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/). During my Ph.D., I have interned at Google Research, Microsoft Azure AI and Amazon Alexa. Before UCLA, I obtained my degrees of Bachelor in 2015 and Master in 2018 from University of Science and Technology of China (USTC). 
 
 My research interests lie in the intersection of machine learning, computer vision, cognition, and robotics. My current research themes include:
 - **Multimodal Understanding**: vision & language understanding, visual reasoning, 3D scene understanding, video understanding
