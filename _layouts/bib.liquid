@@ -76,17 +76,39 @@
           {% endfor %}
         {%- endif -%}
 
+        {% assign is_equal_author = false %}
+        {% assign is_corr_author = false %}
+        {% assign author_name = author.last | append: ', ' | append: author.first %}
+        {% if entry.equalauthor %}
+          {% assign equal_author_array = entry.equalauthor | split: 'and' %}
+          {% for e in equal_author_array %}
+            {% assign eauthor = e | strip %}
+            {% if eauthor == author_name %}
+                {% assign is_equal_author = true %}
+                {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+        {% if entry.correspondence %}
+          {% assign corr_author_array = entry.correspondence | split: 'and' %}
+          {% for e in corr_author_array %}
+            {% assign cauthor = e | strip %}
+            {% if cauthor == author_name %}
+                {% assign is_corr_author = true %}
+                {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+
         {%- if forloop.length > 1 -%}
           {% if forloop.first == false %},&nbsp;{% endif %}
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
         {%- if author_is_self -%}
-          <em>
-          <b>
+          <strong>
             {{- author.first }}
             {{ author.last -}}
-          </b>
-          </em>
+          </strong>
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{coauthor_url}}">
@@ -98,6 +120,8 @@
             {{ author.last -}}
           {% endif %}
         {%- endif -%}
+        {% if is_corr_author %}<sup>&#x2709;</sup>{% endif %}
+        {%- if is_equal_author %}*{% endif -%}
       {% endfor %}
       {%- assign more_authors = author_array_size | minus: author_array_limit -%}
 
