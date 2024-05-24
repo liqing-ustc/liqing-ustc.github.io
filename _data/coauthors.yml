@@ -24,7 +24,9 @@
 
 "gao":
   - firstname: ["Feng"]
-    url: https://jianfei-cai.github.io/
+    url: https://fen9.github.io/
+  - firstname: ["Zhi"]
+    url: https://zhigao2017.github.io/
 
 "gong":
   - firstname: ["Ran"]
@@ -107,6 +109,10 @@
 "yong":
   - firstname: ["Silong"]
     url: https://silongyong.github.io/
+
+"zhang":
+  - firstname: ["Guoxi"]
+    url: https://guoxizhang.com/
 
 "zheng":
   - firstname: ["Zilong"]
