@@ -2,12 +2,14 @@
 layout: about
 title: About
 permalink: /
-# subtitle: <a href='https://www.bigai.ai'>@Beijing Institute for General Artificial Intelligence (BIGAI)</a>, Beijing, China
+subtitle:
 
 profile:
   align: right
   image: liqing.jpg
   image_circular: false # crops the image to make it circular
+  email: >
+    <p><b>Email</b>: dylan.liqing<code>[at]</code>gmail<code>[dot]</code>com</p>
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -18,4 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Research Scientist at <a href='https://www.bigai.ai'>Beijing Institute for General Artificial Intelligence (BIGAI)</a>, China. I received my Ph.D. in 2022 from Department of Statistics at University of California, Los Angeles (UCLA), advised by Professor Song-Chun Zhu. During my Ph.D., I have interned at Google Research, Microsoft Azure AI and Amazon Alexa. Before UCLA, I obtained my degrees of Bachelor in 2015 and Master in 2018 from University of Science and Technology of China (USTC). My research interests lie in machine learning, computer vision, and multimodal learning.
+I am a research scientist and team lead at <a href='https://www.bigai.ai'>Beijing Institute for General Artificial Intelligence (BIGAI)</a>, China. I received my Ph.D. in 2022 from Department of Statistics at University of California, Los Angeles (UCLA), advised by Professor Song-Chun Zhu. During my Ph.D., I have interned at Google Research, Microsoft Azure AI and Amazon Alexa. Before UCLA, I obtained my degrees of Bachelor in 2015 and Master in 2018 from University of Science and Technology of China (USTC). My research interests lie in machine learning, computer vision, and multimodal learning.
+
+<b>
+Our team is actively looking for full-time research scientists, engineers, self-motivated interns and long-term collaborators. Feel free to contact me if you are interested!
+</b>
