@@ -18,6 +18,10 @@
   - firstname: ["Yuntao"]
     url: https://yuntaodu.github.io/
 
+"fang":
+  - firstname: ["Cong"]
+    url: https://congfang-ml.github.io/
+
 "fu":
   - firstname: ["Jianlong"]
     url: https://jianlong-fu.github.io/
@@ -73,6 +77,8 @@
 "luo":
   - firstname: ["Jiebo"]
     url: http://www.cs.rochester.edu/u/jluo/
+  - firstname: ["Lirui"]
+    url: https://liruiluo.github.io/
 
 "ma":
   - firstname: ["Xiaojian"]
@@ -108,6 +114,8 @@
 "yang":
   - firstname: ["Ming-Hsuan"]
     url: http://faculty.ucmerced.edu/mhyang/
+  - firstname: ["Yaodong"]
+    url: https://www.yangyaodong.com/
 
 "yong":
   - firstname: ["Silong"]
