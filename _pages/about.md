@@ -22,8 +22,4 @@ social: true # includes social icons at the bottom of the page
 
 I am a research scientist and team lead at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai), China. I received my Ph.D. in 2022 from University of California, Los Angeles (UCLA), advised by Professor [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/). During my Ph.D., I have interned at Google Research, Microsoft Azure AI and Amazon Alexa. Before UCLA, I obtained my degrees of Bachelor in 2015 and Master in 2018 from University of Science and Technology of China (USTC). 
 
-My long-term research goal is to develop a generalist agent that can ***perceive*** the 3D world, ***communicate*** with humans, and ***learn*** from feedback. To achieve this goal, I am currently interested in:
-- **Multimodal Understanding**: Multimodal LLMs, 3D LLMs, Long-term Video Understanding
-- **Multimodal Agents**: LLM Agents, Vision-Language-Action (VLA), Embodied Agents
-
-**Our team is actively recruiting full-time research scientists, engineers, and self-motivated interns. We are also seeking prospective PhD students and long-term collaborators for [TongProgam (通计划)](https://www.bigai.ai/tongprogram/). Feel free to contact me if you are interested!**
+Currently, I focus on developing ***language agents*** for general ***computer use*** via ***agentic RL***.
